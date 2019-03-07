@@ -1,2 +1,0 @@
-# contribExample
-Created with CodeSandbox
